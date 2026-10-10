@@ -1,6 +1,6 @@
 # Page Replacement Simulator (FIFO and OPT)
 
-An operating systems project by Nathan Chiamsachang and Trey Rajsombath, written in C++.
+An operating systems project by [Nathan Chiamsachang](https://github.com/nchiamsachang) and [Trey Rajsombath](https://github.com/TreyRajsombath), written in C++.
 
 The program reads a page reference string from a text file, simulates a page replacement algorithm on it, prints the frame table, and reports the total number of page faults. It supports two algorithms:
 
